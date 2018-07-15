@@ -1,3 +1,4 @@
 # Raspberry-ups
 
-Scripts para comunicación serial con ups y apagado suave de Raspberry Pi
+This script handle serial communication between a raspberry py and an ups.
+
